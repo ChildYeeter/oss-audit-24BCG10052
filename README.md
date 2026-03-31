@@ -16,9 +16,15 @@ SCRIPT 4 — Log File Analyzer:This script reads a log file line by line and cou
 SCRIPT 5 — Open Source Manifesto Generator:This script generates a personalized open-source manifesto by taking user input through the terminal.
 
 Step by Step instructions to running each scripts.
+
 1)First make sure git is installed
+
 2)Clone the repository
+
 3)Open the cloned directory on your system
+
 4)Make the script executable by doing "chmod +x *.sh"
+
 5)Run the script like "./script1.sh"
+
 Note: For script 4: use "./script4.sh /var/log/dpkg.log error", or else logs won't be displayed.
